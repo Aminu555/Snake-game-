@@ -1,0 +1,5 @@
+{
+  "name": "Copy of React Snake Game",
+  "description": "A modern, responsive clone of the classic Google Snake game built with React, TypeScript, and Tailwind CSS. Guide the snake to eat the food, grow longer, and avoid collisions with walls and its own tail. Features include score tracking, pause/resume functionality, and a clean, minimalist design.",
+  "requestFramePermissions": []
+}
